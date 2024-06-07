@@ -5,7 +5,7 @@ Set up API project directory on your demand
 Use Command Prompt to execute:
 >mkdir GRBdb_api
 >cd GRBdb_api
->GRBdb_api>npm init -y 
+>GRBdb_api>npm init -y
 >GRBdb_api>npm install express pg
 >GRBdb_api>mkdir src
 >GRBdb_api>echo.> src/index.js
